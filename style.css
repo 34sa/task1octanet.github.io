@@ -73,7 +73,7 @@ section {
   padding: 2rem 9%;
 }
 .home {
-  background-image: url(/banner.png.webp);
+  background-image: url(banner.png.webp);
   height: 89vh;
   background-size: cover;
   background-position: center;
